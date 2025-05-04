@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=National+Park:wght@200..800&display=swap');
+
+// Variables
+@import 'variables';
+html, body {
+    font-family: "Inter", sans-serif !important !important;
+}
+// Bootstrap
+@import 'bootstrap/scss/bootstrap';
+h1, h2, h3, h4, h5, h6 {
+    font-family: "National Park", sans-serif !important;
+}
