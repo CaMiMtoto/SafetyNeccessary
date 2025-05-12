@@ -1,5 +1,5 @@
 <div x-data="{ open: false }" class="relative">
-    <button @click="open = !open" class="px-4 py-2 bg-primary text-white rounded-md cursor-pointer">
+    <button @click="open = !open" class="px-4 py-2 bg-primary text-white rounded-md cursor-pointer border border-white">
         {{ $trigger }}
     </button>
 
