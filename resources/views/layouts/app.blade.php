@@ -70,5 +70,9 @@
 <main class="">
     @yield('content')
 </main>
+
+<footer>
+
+</footer>
 </body>
 </html>

@@ -2,7 +2,7 @@
 
 @section('content')
 
-    <section class=" text-white">
+    <section class="font-display text-white">
         <div class="bg-primary px-4 lg:px-16 py-4">
             <div class="flex flex-col-reverse lg:flex-row items-center gap-12">
                 <!-- Text Content -->
@@ -68,7 +68,7 @@
     {{--    Section 1: Our Core Expertise--}}
     <section id="services" class="py-16 bg-gray-100">
         <div class="max-w-7xl mx-auto px-4">
-            <h2 class="text-center text-3xl font-bold mb-12">
+            <h2 class="text-center text-3xl font-bold mb-12 font-display">
                 Services
             </h2>
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -194,7 +194,7 @@
     {{--    Section 2: Why Choose Safety Necessary Group LTD?--}}
     <section class="py-16 bg-white">
         <div class="max-w-7xl mx-auto px-4">
-            <h2 class="text-center text-3xl font-bold mb-12">Why Choose Safety Necessary Group LTD?</h2>
+            <h2 class="text-center text-3xl font-bold mb-12 font-display">Why Choose Safety Necessary Group LTD?</h2>
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
                 <div class="bg-gray-100 rounded-xl shadow-sm p-8">
                     <div class="flex items-center mb-4">
